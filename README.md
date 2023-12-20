@@ -8,3 +8,5 @@ Licensed according to the original Gemini and distributed under CC BY-NC-SA 4.0.
     * https://github.com/zk-phi/gemini-keyboard
 * CC BY-NC-SA 4.0
     * https://creativecommons.org/licenses/by-nc-sa/4.0/ 
+* PCB Data
+    * https://github.com/illness072/Spica-PCB
